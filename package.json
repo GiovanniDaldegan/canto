@@ -1,0 +1,25 @@
+{
+  "name": "canto",
+  "version": "1.0.0",
+  "description": "Um site para guardar os textos que eu estiver afim de escrever. De reflexões a narrações, de poesia (espero) a registros.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiovanniDaldegan/canto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiovanniDaldegan/canto/issues"
+  },
+  "homepage": "https://github.com/GiovanniDaldegan/canto#readme",
+  "dependencies": {
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
